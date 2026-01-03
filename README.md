@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/Visual%20Paradigm-UML-blue?style=for-the-badge" />
 </p>
 
+#### 🎨 Digital Art (Basic Level) & Manga coloring
+- Ibis Paint — simple illustrations and manga coloring
+
+
 </div>
 
 
