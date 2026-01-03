@@ -13,13 +13,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
-<p><sub>Hands-on experience with Flutter and Dart</sub></p>
+
 
 #### 🧠 Problem Solving & Algorithms
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,java" />
 </p>
-<p><sub>Used for algorithmic problem solving and coding practice (LeetCode)</sub></p>
+
 
 #### 🎨 Design & System Modeling
 <p>
