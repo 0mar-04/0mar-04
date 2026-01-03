@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**0mar-04/0mar-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Programming & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,bootstrap,dotnet" />
+</p>
+
+#### 🎨 Design & Modeling
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Visual%20Paradigm-UML-blue?style=for-the-badge" />
+</p>
+
+</div>
