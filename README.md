@@ -27,8 +27,7 @@
   <img src="https://img.shields.io/badge/Visual%20Paradigm-UML-blue?style=for-the-badge" />
 </p>
 
-#### 🎨 Manga coloring
-- Ibis Paint — manga coloring
+
 
 
 </div>
